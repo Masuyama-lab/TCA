@@ -1,6 +1,6 @@
 # TCA
 
-(c) 2019 Naoki Masuyama
+(c) 2020 Naoki Masuyama
  
 Topological CIM-based Adaptive Resonance Theory (TCA) proposed in:
 
