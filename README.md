@@ -1,4 +1,4 @@
-# TCA
+# Topological CIM-based Adaptive Resonance Theory
 
 (c) 2020 Naoki Masuyama
  
